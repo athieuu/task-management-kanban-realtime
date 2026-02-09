@@ -2,7 +2,7 @@
 
 A task management application with Kanban board and realtime collaboration, built as a personal project for Software Engineering portfolio.
 
-## 🚀 Features
+## Features
 - User authentication (Register / Login)
 - Create and manage Kanban boards
 - Columns: Todo / In Progress / Done (customizable)
@@ -11,7 +11,7 @@ A task management application with Kanban board and realtime collaboration, buil
 - Realtime collaboration with Socket.io
 - Role-based access (Owner / Member)
 
-## 🛠️ Tech Stack
+## Tech Stack
 ### Backend
 - Node.js
 - Express.js
@@ -24,21 +24,8 @@ A task management application with Kanban board and realtime collaboration, buil
 - Tailwind CSS
 - Drag & Drop (dnd-kit / react-beautiful-dnd)
 
-## 📂 Project Structure
-task-management-kanban-realtime/
-├── backend/
-│ ├── src/
-│ │ ├── config/
-│ │ ├── controllers/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ └── index.js
-│ └── package.json
-├── frontend/ (coming soon)
-└── README.md
 
-
-## 🧠 Database Design (MongoDB)
+## Database Design (MongoDB)
 - User
 - Board
 - Column
@@ -46,7 +33,7 @@ task-management-kanban-realtime/
 
 Each board can have multiple columns, and each column contains multiple tasks.
 
-## 📅 Development Roadmap
+## Development Roadmap
 - Week 1–2: Project setup & Git workflow
 - Week 3: Backend base (Express + MongoDB)
 - Week 4: Authentication & Authorization
@@ -56,12 +43,12 @@ Each board can have multiple columns, and each column contains multiple tasks.
 - Week 9: Testing & optimization
 - Week 10: Deployment & documentation
 
-## 🎯 Purpose
+## Purpose
 This project is built to:
 - Practice full-stack web development
 - Apply Software Engineering concepts
 - Serve as a portfolio project for internship/junior positions
 
-## 📌 Author
+## Author
 - Name: **Bùi Ngọc Thiệu**
 - Major: Software Engineering
